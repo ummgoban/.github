@@ -2,7 +2,7 @@
 
 ## Introduction
 
-반찬 가게의 소비기한이 임박한 상품을 판배합니다.
+반찬 가게의 소비기한이 임박한 상품을 판매합니다.
 
 ## Repos
 - [Backend](https://github.com/UOS-Capstone/Market-API-Backend)
