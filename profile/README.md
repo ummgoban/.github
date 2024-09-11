@@ -8,7 +8,7 @@
 - [Backend](https://github.com/UOS-Capstone/Market-API-Backend)
 - Frontend
   - [client](https://github.com/UOS-Capstone/client-app)
-  - admin [TODO]
+  - [admin](https://github.com/UOS-Capstone/admin-client-app)
 
 ## Member
 - [김도현](https://github.com/l-lyun)
