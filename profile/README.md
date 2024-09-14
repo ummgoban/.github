@@ -13,5 +13,5 @@
 ## Member
 - [김도현](https://github.com/l-lyun)
 - [김영민](https://github.com/99mini)
-- [이상민](https://github.com/Lee-Sang-Min1998)
+- [이상민](https://github.com/lsm-del)
 - [이승민](https://github.com/itslitulinchpin2)
