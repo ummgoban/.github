@@ -1,12 +1,16 @@
-# 2024-2 Capstone
+# ummgoban
 
 ## Introduction
 
 반찬 가게의 소비기한이 임박한 상품을 판매합니다.
 
 ## 팀명
+- Make Me Better, MomMeatBanchan MMB
+- 엄고반: 엄마 고기 반찬
 
 ## 어플리케이션명
+- momchanpick 
+- 맘찬픽 
 
 ## Repos
 - [Backend](https://github.com/UOS-Capstone/Market-API-Backend)
