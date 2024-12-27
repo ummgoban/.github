@@ -24,3 +24,7 @@
 - [김영민](https://github.com/99mini)
 - [이상민](https://github.com/lsm-del)
 - [이승민](https://github.com/itslitulinchpin2)
+
+## 위키
+
+- [1분반-엄고반](https://capstone.uos.ac.kr/cdc/index.php/1%EB%B6%84%EB%B0%98-%EC%97%84%EA%B3%A0%EB%B0%98)
