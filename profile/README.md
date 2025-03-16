@@ -42,6 +42,14 @@
 
 - [1분반-엄고반](https://capstone.uos.ac.kr/cdc/index.php/1%EB%B6%84%EB%B0%98-%EC%97%84%EA%B3%A0%EB%B0%98)
 
+## 수상
+
+<div align=center>
+
+<img src="https://github.com/user-attachments/assets/6e6ad5b6-ec64-4632-bb30-4ea45d6294bf" width="480" alt="우수작품 상장_컴퓨터과학부_엄고반"/>
+
+</div>
+
 ## Contect
 
 [momchanpick@gmail.com](mailto:momchanpick@gmail.com)
