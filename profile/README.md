@@ -46,7 +46,7 @@
 
 <div align=center>
 
-<img src="https://github.com/user-attachments/assets/6e6ad5b6-ec64-4632-bb30-4ea45d6294bf" width="480" alt="우수작품 상장_컴퓨터과학부_엄고반"/>
+<img src="https://github.com/user-attachments/assets/45730f85-7350-417a-9b23-f4e6e576c8c5" width="480" alt="우수작품 상장_컴퓨터과학부_엄고반"/>
 
 </div>
 
