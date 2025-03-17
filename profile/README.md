@@ -1,6 +1,6 @@
 # ummgoban
 
-- [homepage](https://ummgoban.github.io/)
+- [homepage](https://ummgoban.com)
 - play store (alpha test)
 - app store (alpha test)
 
