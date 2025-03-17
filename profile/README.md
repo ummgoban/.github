@@ -35,6 +35,7 @@
 | [김영민](https://github.com/99mini) | 대표 | 프론트엔드 리드 | founding |
 | [이상민](https://github.com/lsm-del) | 팀원 | 백엔드 리드 | founding |
 | [이승민](https://github.com/itslitulinchpin2) | 팀원 | 프론트엔드 개발 | founding |
+| [이소은](https://github.com/soeun2537) | 팀원 | 백엔드 개발 | 2024 |
 | [김기찬](https://github.com/gichan222) | 팀원 | 인프라, 백엔드 개발 | 2025 ~ |
 | [박찬](https://github.com/longrunpc) | 팀원 | 백엔드 개발 | 2025 ~ |
 
