@@ -25,7 +25,7 @@
   - [home](https://github.com/ummgoban/ummgoban)
   - [client](https://github.com/ummgoban/client-app)
   - [admin](https://github.com/ummgoban/admin-client-app)
-  - [shared](https://github.com/ummgoban/shared-app)
+  - [shared](https://github.com/ummgoban/shared)
 
 ## Member
 
