@@ -1,8 +1,12 @@
 # ummgoban
 
-- [homepage](https://ummgoban.com)
-- play store (alpha test)
-- app store (alpha test)
+- [홈페이지](https://ummgoban.com)
+- 고객앱
+  - [안드로이드](https://play.google.com/store/apps/details?id=com.ummgoban.momchanpick)
+  - [IOS](https://apps.apple.com/kr/app/%EB%A7%98%EC%B0%AC%ED%94%BD/id6738623251) 
+- 사장님앱
+  - [안드로이드](https://play.google.com/store/apps/details?id=com.ummgoban.momchanpickadmin)
+  - [IOS](https://apps.apple.com/kr/app/%EB%A7%98%EC%B0%AC%ED%94%BD-%EC%82%AC%EC%9E%A5%EB%8B%98/id6738469813)
 
 ## Introduction
 
